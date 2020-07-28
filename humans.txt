@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tomasz Janicki -- DevOps Engineer -- @yaneeck
 
 # THANKS
 
